@@ -105,7 +105,7 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2025</strong> —
 
   <span style="color: #555555; font-size: 16px; font-style: italic;">
-    Selected for the <strong>ACS PMSE Future Faculty Program</strong>
+    Selected for the <strong>ACS PMSE Future Faculty Award</strong>
   </span>
 </p>
 
