@@ -98,7 +98,24 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 ## Selected recent news
 
 <p>
+  <span class="news-type-icon award">
+    <i class="fas fa-award"></i>
+  </span>
+
+  <strong style="color: #555555; font-size: 16px; font-weight: 600;">2025</strong> —
+
+  <span style="color: #555555; font-size: 16px; font-style: italic;">
+    Selected for the <strong>ACS PMSE Future Faculty Program</strong>
+  </span>
+</p>
+
+<p>
+  <span class="news-type-icon award">
+    <i class="fas fa-award"></i>
+  </span>
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2024</strong> —
+
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     Received the <strong>MRS Graduate Student Award</strong> (Gold)
   </span>
