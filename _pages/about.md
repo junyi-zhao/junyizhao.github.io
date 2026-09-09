@@ -164,6 +164,10 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+   <span class="news-type-icon media">
+    <i class="fas fa-newspaper"></i>
+  </span>
+ 
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Oct 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;"><strong>Nature Photonics</strong> News &amp; Views</span> highlighted our handwritten perovskite optoelectronic platform.
@@ -180,6 +184,11 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+  
+    <span class="news-type-icon media">
+    <i class="fas fa-newspaper"></i>
+  </span>
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;"><strong>Nature</strong> Research Highlight</span> featured our work in “A rainbow of LEDs adorns objects at the stroke of a pen.”
@@ -204,6 +213,10 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+    <span class="news-type-icon media">
+    <i class="fas fa-newspaper"></i>
+  </span>
+  
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;">EurekAlert!</span> featured our work in “Simple ballpoint pen can write custom LEDs.”
