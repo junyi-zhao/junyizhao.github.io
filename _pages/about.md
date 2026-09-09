@@ -155,6 +155,11 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+  
+    <span class="news-type-icon media">
+    <i class="fas fa-newspaper"></i>
+  </span>
+  
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Jan 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;">HEC Media</span> featured our handwritten optoelectronics work in a news story and interview video.
@@ -176,6 +181,11 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+  
+    <span class="news-type-icon media">
+    <i class="fas fa-newspaper"></i>
+  </span>
+  
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Sep 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;"><strong>Physics Magazine</strong>, American Physical Society</span> featured our work in “Handwritten LEDs Light Up the Page.”
@@ -197,6 +207,11 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+  
+    <span class="news-type-icon media">
+    <i class="fas fa-newspaper"></i>
+  </span>
+  
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;">Optics &amp; Photonics News (Optica)</span> featured our work in “Bright Idea? Write It with Perovskite.”
@@ -205,6 +220,11 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+  
+    <span class="news-type-icon media">
+    <i class="fas fa-newspaper"></i>
+  </span>
+  
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     <span style="color: #c1121f;">WashU The Source</span> featured our work in “Simple ballpoint pen can write custom LEDs.”
