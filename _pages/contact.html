@@ -7,17 +7,53 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .contact-page {
+    min-height: calc(100vh - 220px);
+  }
+
+  .contact-page .archive__item {
+    margin-top: 1.5rem;
+  }
+
+  .contact-page h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  .contact-page p {
+    line-height: 1.6;
+    margin-bottom: 1.2rem;
+  }
+
+  @media (max-width: 768px) {
+    .contact-page {
+      min-height: auto;
+    }
+  }
+</style>
+
 <hr />
 
-<div class="list__item">
-  <article class="archive__item">
-    <h3>Junyi Zhao</h3>
-    <p><strong>Email:</strong> <a href="mailto:junyiz@stanford.edu">junyiz@stanford.edu</a></p>
-    <p>
-      <strong>Address:</strong><br>
-      443 Via Ortega<br>
-      Stanford, CA 94305
-    </p>
-  </article>
-</div>
+<div class="contact-page">
 
+  <div class="list__item">
+    <article class="archive__item">
+
+      <h3>Junyi Zhao</h3>
+
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:junyiz@stanford.edu">junyiz@stanford.edu</a>
+      </p>
+
+      <p>
+        <strong>Address:</strong><br>
+        443 Via Ortega<br>
+        Stanford, CA 94305
+      </p>
+
+    </article>
+  </div>
+
+</div>
