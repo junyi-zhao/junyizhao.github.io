@@ -122,8 +122,8 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
-   <span class="news-type-icon paper">
-    <i class="fas fa-file-alt"></i>
+  <span class="news-type-icon award">
+    <i class="fas fa-award"></i>
   </span>
   
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
@@ -133,6 +133,10 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+    <span class="news-type-icon paper">
+    <i class="fas fa-file-alt"></i>
+  </span>
+ 
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     First-authored paper published at <strong>ACM UIST'24</strong> on embodied E-textile tactile-interface for robust gesture recognition
