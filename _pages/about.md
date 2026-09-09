@@ -122,6 +122,10 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+   <span class="news-type-icon paper">
+    <i class="fas fa-file-alt"></i>
+  </span>
+  
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     Selected for the <strong>2024 CAS Future Leaders</strong> 
@@ -136,6 +140,10 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+  <span class="news-type-icon award">
+    <i class="fas fa-award"></i>
+  </span>
+
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Apr 2024</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     Received the Outstanding Doctoral Dissertation Award
@@ -200,6 +208,10 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+   <span class="news-type-icon paper">
+    <i class="fas fa-file-alt"></i>
+  </span>
+  
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Aug 2023</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     First-authored paper published in <strong>Nature Photonics</strong> on handwritten soft perovskite optoelectronics
@@ -207,6 +219,10 @@ Visiting Research Assistant, Electrical &amp; Computer Engineering, University o
 </p>
 
 <p>
+  <span class="news-type-icon paper">
+    <i class="fas fa-file-alt"></i>
+  </span>
+ 
   <strong style="color: #555555; font-size: 16px; font-weight: 600;">Dec 2021</strong> —
   <span style="color: #555555; font-size: 16px; font-style: italic;">
     First-authored paper published in <strong>Advanced Materials</strong> on printed light-emitting diodes (LEDs)
